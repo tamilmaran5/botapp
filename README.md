@@ -2,7 +2,7 @@
 fetch and merge videos from website
 
 #Task
- Create a bot that would download the first two videos from the
+Create a bot that would download the first two videos from the
 given link, later it uses MoviePy to merge the to video as on video and
 provides the output in mp4 format. It should also scrape the title Video
 URL, and exact date and time of posting and present it in excel or CSV
